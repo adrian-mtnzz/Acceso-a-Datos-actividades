@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="967fd4c8-ad89-49b9-ab0d-df07e849da4b" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="967fd4c8-ad89-49b9-ab0d-df07e849da4b" name="Changes" comment="Adaptacion al JDK 23, previamente la clase ExploraRuta utilizaba el metodo void main() introducido en el nuevo JDK 25.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/ExploraRuta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/ExploraRuta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "adrianmtnz-upgrade"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;adrianmtnz-upgrade&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/adrianmtnz-upgrade/Acceso-a-Datos-actividades.git",
-    "accountId": "a518e621-131b-4c58-b9c6-56623b3a0d59"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/adrianmtnz-upgrade/Acceso-a-Datos-actividades.git&quot;,
+    &quot;accountId&quot;: &quot;a518e621-131b-4c58-b9c6-56623b3a0d59&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -53,8 +54,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/adrian-mtnzz/DAM2/acceso-a-datos/actividades",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "C:/Users/adria/Desktop/DAM2/Acceso-a-Datos/Acceso-a-Datos-actividades",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -91,6 +92,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="967fd4c8-ad89-49b9-ab0d-df07e849da4b" name="Changes" comment="" />
@@ -136,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ej.1 terminado" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Adaptacion al JDK 23, previamente la clase ExploraRuta utilizaba el metodo void main() introducido en el nuevo JDK 25." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adaptacion al JDK 23, previamente la clase ExploraRuta utilizaba el metodo void main() introducido en el nuevo JDK 25." />
   </component>
 </project>
