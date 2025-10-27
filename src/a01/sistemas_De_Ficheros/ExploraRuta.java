@@ -101,7 +101,6 @@ public class ExploraRuta {
         ExploraRuta ruta = new ExploraRuta();
         ruta.introducirRuta();
         ruta.revisarRuta();
-
     }
 }
 

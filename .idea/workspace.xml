@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="967fd4c8-ad89-49b9-ab0d-df07e849da4b" name="Changes" comment="Adaptacion al JDK 23, previamente la clase ExploraRuta utilizaba el metodo void main() introducido en el nuevo JDK 25.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="967fd4c8-ad89-49b9-ab0d-df07e849da4b" name="Changes" comment="Resolucion ejercicio 2">
+      <change afterPath="$PROJECT_DIR$/src/a02/ficheros_De_Texto/Notas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/ExploraRuta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/ExploraRuta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/prueba.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +35,12 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/adrianmtnz-upgrade/Acceso-a-Datos-actividades.git&quot;,
-    &quot;accountId&quot;: &quot;a518e621-131b-4c58-b9c6-56623b3a0d59&quot;
+    &quot;accountId&quot;: &quot;92dba72e-2fed-4bea-9c8f-22a030503f9d&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -48,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ExploraRuta.executor": "Run",
+    "Application.Notas.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -64,6 +69,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adria\Desktop\DAM2\Acceso-a-Datos\Acceso-a-Datos-actividades\src\a01\sistemas_De_Ficheros" />
       <recent name="$PROJECT_DIR$/../Acceso-a-Datos-Repository/actividades" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/../Acceso-a-Datos-Repository" />
@@ -72,7 +78,7 @@
       <recent name="a01" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Notas">
     <configuration name="ExploraRuta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a01.sistemas_De_Ficheros.ExploraRuta" />
       <module name="actividades" />
@@ -86,8 +92,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Notas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a02.ficheros_De_Texto.Notas" />
+      <module name="actividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a02.ficheros_De_Texto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Notas" />
         <item itemvalue="Application.ExploraRuta" />
       </list>
     </recent_temporary>
@@ -109,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761490040946</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adaptacion al JDK 23, previamente la clase ExploraRuta utilizaba el metodo void main() introducido en el nuevo JDK 25.">
+      <option name="closed" value="true" />
+      <created>1761491652382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761491652382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +167,7 @@
     <MESSAGE value="Ej.1 terminado" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Adaptacion al JDK 23, previamente la clase ExploraRuta utilizaba el metodo void main() introducido en el nuevo JDK 25." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adaptacion al JDK 23, previamente la clase ExploraRuta utilizaba el metodo void main() introducido en el nuevo JDK 25." />
+    <MESSAGE value="Resolucion ejercicio 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolucion ejercicio 2" />
   </component>
 </project>
