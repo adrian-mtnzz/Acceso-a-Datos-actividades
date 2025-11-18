@@ -51,26 +51,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Binario.executor": "Run",
-    "Application.ExploraRuta.executor": "Run",
-    "Application.Notas.executor": "Run",
-    "Application.a01.a02.ficheros_De_Texto.Notas.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/adrian-mtnzz/DAM2/Multimedia-PROG",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
-  }
-}]]></component>
+  
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\adria\Desktop\DAM2\Acceso-a-Datos\Acceso-a-Datos-actividades\src\a01\sistemas_De_Ficheros" />
@@ -82,7 +63,7 @@
       <recent name="a01" />
     </key>
   </component>
-  <component name="RunManager">
+
     <configuration name="ExploraRuta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a01.sistemas_De_Ficheros.ExploraRuta" />
       <module name="actividades" />
