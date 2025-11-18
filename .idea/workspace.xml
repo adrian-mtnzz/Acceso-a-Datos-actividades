@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967fd4c8-ad89-49b9-ab0d-df07e849da4b" name="Changes" comment="Resolucion ejercicio 2">
-      <change afterPath="$PROJECT_DIR$/src/a02/ficheros_De_Texto/Notas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a02/EscrituraLecturaDatosBinarios/Binario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/ExploraRuta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/ExploraRuta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/prueba.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/ExploraRuta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01/a01/sistemas_De_Ficheros/ExploraRuta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/carpeta-de-prueba/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01/a01/sistemas_De_Ficheros/carpeta-de-prueba/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/prueba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01/a01/sistemas_De_Ficheros/prueba.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a02/ficheros_De_Texto/Notas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01/a02/ficheros_De_Texto/Notas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +37,11 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/adrianmtnz-upgrade/Acceso-a-Datos-actividades.git&quot;,
-    &quot;accountId&quot;: &quot;92dba72e-2fed-4bea-9c8f-22a030503f9d&quot;
+    &quot;accountId&quot;: &quot;a518e621-131b-4c58-b9c6-56623b3a0d59&quot;
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -51,15 +53,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Binario.executor": "Run",
     "Application.ExploraRuta.executor": "Run",
     "Application.Notas.executor": "Run",
+    "Application.a01.a02.ficheros_De_Texto.Notas.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/adria/Desktop/DAM2/Acceso-a-Datos/Acceso-a-Datos-actividades",
+    "last_opened_file_path": "/home/adrian-mtnzz/DAM2/Multimedia-PROG",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -78,7 +82,7 @@
       <recent name="a01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Notas">
+  <component name="RunManager">
     <configuration name="ExploraRuta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a01.sistemas_De_Ficheros.ExploraRuta" />
       <module name="actividades" />
@@ -93,11 +97,11 @@
       </method>
     </configuration>
     <configuration name="Notas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a02.ficheros_De_Texto.Notas" />
+      <option name="MAIN_CLASS_NAME" value="a01.sistemas_De_Ficheros.ficheros_De_Texto.Notas" />
       <module name="actividades" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a02.ficheros_De_Texto.*" />
+          <option name="PATTERN" value="a01.sistemas_De_Ficheros.ficheros_De_Texto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,8 +111,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Notas" />
         <item itemvalue="Application.ExploraRuta" />
+        <item itemvalue="Application.Notas" />
       </list>
     </recent_temporary>
   </component>

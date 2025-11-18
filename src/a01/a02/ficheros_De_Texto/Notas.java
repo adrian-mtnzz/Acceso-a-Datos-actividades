@@ -1,4 +1,4 @@
-package a02.ficheros_De_Texto;
+package a01.a02.ficheros_De_Texto;
 
 
 /* ATENCION
@@ -46,10 +46,8 @@ public class Notas {
     }
 
     public void escribirLineas(){
-        FileWriter writer;
 
-        if (file.exists()) try {
-            writer = new FileWriter(file, true);
+        if (file.exists()) try(FileWriter writer = new FileWriter(file, true)) {
 
             for(String linea : lineas) {
                 writer.write(linea+System.lineSeparator());
