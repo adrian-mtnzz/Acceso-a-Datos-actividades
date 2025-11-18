@@ -1,158 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="967fd4c8-ad89-49b9-ab0d-df07e849da4b" name="Changes" comment="Resolucion ejercicio 2">
-      <change afterPath="$PROJECT_DIR$/src/a02/EscrituraLecturaDatosBinarios/Binario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/ExploraRuta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01/a01/sistemas_De_Ficheros/ExploraRuta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/carpeta-de-prueba/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01/a01/sistemas_De_Ficheros/carpeta-de-prueba/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a01/sistemas_De_Ficheros/prueba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01/a01/sistemas_De_Ficheros/prueba.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a02/ficheros_De_Texto/Notas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a01/a02/ficheros_De_Texto/Notas.java" afterDir="false" />
+    <list default="true" id="8c0475cf-d1a1-4915-a698-39273d3b1ed4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="module-info" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;adrianmtnz-upgrade&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/adrianmtnz-upgrade/Acceso-a-Datos-actividades.git&quot;,
-    &quot;accountId&quot;: &quot;a518e621-131b-4c58-b9c6-56623b3a0d59&quot;
-  }
-}</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="34ZCblEOzWwoqWJrY2E2UMge8ZZ" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  
+}]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\adria\Desktop\DAM2\Acceso-a-Datos\Acceso-a-Datos-actividades\src\a01\sistemas_De_Ficheros" />
-      <recent name="$PROJECT_DIR$/../Acceso-a-Datos-Repository/actividades" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/../Acceso-a-Datos-Repository" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="a01" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adria\Desktop\DAM2\Acceso-a-Datos\Acceso-a-Datos-actividades\.idea" />
     </key>
   </component>
-
-    <configuration name="ExploraRuta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a01.sistemas_De_Ficheros.ExploraRuta" />
-      <module name="actividades" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a01.sistemas_De_Ficheros.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Notas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a01.sistemas_De_Ficheros.ficheros_De_Texto.Notas" />
-      <module name="actividades" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="a01.sistemas_De_Ficheros.ficheros_De_Texto.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ExploraRuta" />
-        <item itemvalue="Application.Notas" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="967fd4c8-ad89-49b9-ab0d-df07e849da4b" name="Changes" comment="" />
-      <created>1761411784239</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1761411784239</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1761490040946</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1761490040946</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Adaptacion al JDK 23, previamente la clase ExploraRuta utilizaba el metodo void main() introducido en el nuevo JDK 25.">
-      <option name="closed" value="true" />
-      <created>1761491652382</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1761491652382</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ej.1 terminado" />
-    <MESSAGE value="Initial commit" />
-    <MESSAGE value="Adaptacion al JDK 23, previamente la clase ExploraRuta utilizaba el metodo void main() introducido en el nuevo JDK 25." />
-    <MESSAGE value="Resolucion ejercicio 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolucion ejercicio 2" />
   </component>
 </project>
