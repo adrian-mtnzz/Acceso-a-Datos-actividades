@@ -16,6 +16,8 @@ public class Application {
                 "██ ██  ██      ██ ▀▀▀▄▄▄ ██  ██ ██ ▀▄██ \n" +
                 "██ ▀████▀   ████▀ █████▀ ▀████▀ ██   ██ \n" +
                 "\u001b[0m\n\n                             ");
+
+        // Creo una instancia del controlador
         PeliculasControllerImpl controller  = new PeliculasControllerImpl();
 
         // Generacion de una lista de objetos de la clase Pelicula
