@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f4d508c-087d-47fd-a0c0-34c471517458" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/a03/JSON/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a03/JSON/java/controller/PeliculasController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a03/JSON/java/controller/PeliculasControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a03/JSON/java/model/Pelicula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a03/JSON/lib/json-20240303.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/actividades.iml" beforeDir="false" afterPath="$PROJECT_DIR$/actividades.iml" afterDir="false" />
+    <list default="true" id="5f4d508c-087d-47fd-a0c0-34c471517458" name="Changes" comment="update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/a03/JSON/resources/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a03/JSON/java/controller/PeliculasControllerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a03/JSON/java/controller/PeliculasControllerImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,29 +48,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Application.executor": "Run",
-    "Application.Binario.executor": "Run",
-    "Application.InitBDJuegos.executor": "Run",
-    "Application.TestConexionH2.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/adrian-mtnzz/DAM2/acceso-a-datos/Acceso-a-Datos-actividades/src/a03/JSON/lib/json-20240303.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.6467433",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Binario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InitBDJuegos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestConexionH2.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/adrian-mtnzz/DAM2/acceso-a-datos/Acceso-a-Datos-actividades/src/a03/JSON/lib/json-20240303.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.6467433&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/a03/JSON/lib" />
@@ -117,6 +113,28 @@
       <option name="presentableId" value="Default" />
       <updated>1763584349901</updated>
     </task>
+    <task id="LOCAL-00001" summary="Actividad 3 de entrega evaluable">
+      <option name="closed" value="true" />
+      <created>1764074318085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764074318085</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update workspace.xml">
+      <option name="closed" value="true" />
+      <created>1764074890878</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764074890878</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actividad 3 de entrega evaluable" />
+    <MESSAGE value="update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
 </project>

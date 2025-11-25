@@ -62,7 +62,7 @@ public class PeliculasControllerImpl implements PeliculasController {
             System.out.println("\u001b[34mJSON escrito en: \u001b[0m" + JSONFile.getPath());
 
         } catch (IOException ex) {
-            System.err.println("Error al escribir el documento JSON" + ex.getMessage());
+            System.err.println("Error al escribir el documento JSON:\t" + ex.getMessage());
         }
         return JSONFile;
     }
@@ -108,7 +108,7 @@ public class PeliculasControllerImpl implements PeliculasController {
         } catch (FileNotFoundException e) {
             System.err.println("Archivo no encontrado:\t" + e.getMessage());
         } catch (IOException e) {
-            System.err.println("Error al leer el archivo \n" + e.getMessage());
+            System.err.println("Error al leer el archivo:\t" + e.getMessage());
         }
     }
 }
