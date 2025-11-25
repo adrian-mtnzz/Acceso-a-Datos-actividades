@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f4d508c-087d-47fd-a0c0-34c471517458" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/a03/JSON/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a03/JSON/java/controller/PeliculasController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a03/JSON/java/controller/PeliculasControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a03/JSON/java/model/Pelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a03/JSON/lib/json-20240303.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividades.iml" beforeDir="false" afterPath="$PROJECT_DIR$/actividades.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;adrianmtnz-upgrade&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;adrianmtnz-upgrade&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/adrianmtnz-upgrade/Acceso-a-Datos-actividades.git&quot;,
+    &quot;accountId&quot;: &quot;a518e621-131b-4c58-b9c6-56623b3a0d59&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35iEAWGnhhhIWHmViQtpw2p8BPo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.Binario.executor": "Run",
+    "Application.InitBDJuegos.executor": "Run",
+    "Application.TestConexionH2.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/adrian-mtnzz/DAM2/acceso-a-datos/Acceso-a-Datos-actividades/src/a03/JSON/lib/json-20240303.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.6467433",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/a03/JSON/lib" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/src/a00/actividadesClase/lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/a00/actividadesClase/clase05/lib" />
+      <recent name="$PROJECT_DIR$/src/a00/actividadesClase/clase05" />
+      <recent name="$PROJECT_DIR$/src/a00/actividadesClase/lib" />
+      <recent name="$PROJECT_DIR$/src/a00/actividadesClase" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestConexionH2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a00.actividadesClase.clase05.TestConexionH2" />
+      <module name="actividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a00.actividadesClase.clase05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestConexionH2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f4d508c-087d-47fd-a0c0-34c471517458" name="Changes" comment="" />
+      <created>1763584349901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763584349901</updated>
+    </task>
+    <servers />
+  </component>
+</project>
