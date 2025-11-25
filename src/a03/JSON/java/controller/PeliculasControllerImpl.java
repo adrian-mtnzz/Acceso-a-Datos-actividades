@@ -54,7 +54,7 @@ public class PeliculasControllerImpl implements PeliculasController {
     public File escribirJSON(JSONObject root) {
 
         // Creacion de archivo peliculas.json
-        File JSONFile = new File("src/a03/JSON/resources/peliculas.json");
+        File JSONFile = new File("resources/a03/peliculas.json");
         try (FileWriter fw = new FileWriter(JSONFile)) {
 
             // Escritura de los datos del objeto JSON raiz en el archivo

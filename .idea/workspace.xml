@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f4d508c-087d-47fd-a0c0-34c471517458" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/a03/JSON/resources/.gitkeep" afterDir="false" />
+    <list default="true" id="5f4d508c-087d-47fd-a0c0-34c471517458" name="Changes" comment="no se habia subido la carpeta resources y el programa no compilaba">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/a03/JSON/java/controller/PeliculasControllerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a03/JSON/java/controller/PeliculasControllerImpl.java" afterDir="false" />
     </list>
@@ -40,6 +39,9 @@
     &quot;accountId&quot;: &quot;a518e621-131b-4c58-b9c6-56623b3a0d59&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -129,12 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1764074890878</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="no se habia subido la carpeta resources y el programa no compilaba">
+      <option name="closed" value="true" />
+      <created>1764075953511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764075953511</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Actividad 3 de entrega evaluable" />
     <MESSAGE value="update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
+    <MESSAGE value="no se habia subido la carpeta resources y el programa no compilaba" />
+    <option name="LAST_COMMIT_MESSAGE" value="no se habia subido la carpeta resources y el programa no compilaba" />
   </component>
 </project>
