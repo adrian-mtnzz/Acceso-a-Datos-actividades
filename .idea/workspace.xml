@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f4d508c-087d-47fd-a0c0-34c471517458" name="Changes" comment="no se habia subido la carpeta resources y el programa no compilaba">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a03/JSON/java/controller/PeliculasControllerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a03/JSON/java/controller/PeliculasControllerImpl.java" afterDir="false" />
+    <list default="true" id="5f4d508c-087d-47fd-a0c0-34c471517458" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/resources/a03/peliculas.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,13 +138,30 @@
       <option name="project" value="LOCAL" />
       <updated>1764075953511</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".">
+      <option name="closed" value="true" />
+      <created>1764086357684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764086357684</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".">
+      <option name="closed" value="true" />
+      <created>1764086434249</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764086434249</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Actividad 3 de entrega evaluable" />
     <MESSAGE value="update workspace.xml" />
     <MESSAGE value="no se habia subido la carpeta resources y el programa no compilaba" />
-    <option name="LAST_COMMIT_MESSAGE" value="no se habia subido la carpeta resources y el programa no compilaba" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
