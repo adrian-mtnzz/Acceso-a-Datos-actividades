@@ -1,0 +1,17 @@
+{"Peliculas": [
+    {
+        "Fecha": 1992,
+        "Director": "Director 1",
+        "Titulo": "Pelicula 1"
+    },
+    {
+        "Fecha": 2004,
+        "Director": "Director 2",
+        "Titulo": "Pelicula 2"
+    },
+    {
+        "Fecha": 2010,
+        "Director": "Director 3",
+        "Titulo": "Pelicula 3"
+    }
+]}

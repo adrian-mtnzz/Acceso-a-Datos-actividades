@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f4d508c-087d-47fd-a0c0-34c471517458" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acceso-a-Datos-actividades.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/resources/a03/peliculas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a04/jdbc_crud/main/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a04/jdbc_crud/main/mapper/dataSource/DBJuegosConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a04/jdbc_crud/main/mapper/repository/JuegosRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a04/jdbc_crud/main/model/Juego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a04/jdbc_crud/main/utils/UtilsDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividades.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a03/JSON/resources/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +51,9 @@
     &quot;accountId&quot;: &quot;a518e621-131b-4c58-b9c6-56623b3a0d59&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.idea/workspace.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -64,12 +80,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/adrian-mtnzz/DAM2/acceso-a-datos/Acceso-a-Datos-actividades/src/a03/JSON/lib/json-20240303.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/adrian-mtnzz/DAM2/acceso-a-datos/Acceso-a-Datos-actividades/lib/h2-2.4.240.jar&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.6467433&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JAVA&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -79,17 +95,17 @@
       <recent name="$PROJECT_DIR$/src/a00/actividadesClase/lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/a04/" />
+      <recent name="$PROJECT_DIR$/src/a04/jdbc_crud/secrets" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/a00/actividadesClase/clase05/lib" />
       <recent name="$PROJECT_DIR$/src/a00/actividadesClase/clase05" />
-      <recent name="$PROJECT_DIR$/src/a00/actividadesClase/lib" />
-      <recent name="$PROJECT_DIR$/src/a00/actividadesClase" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="TestConexionH2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a00.actividadesClase.clase05.TestConexionH2" />
-      <module name="actividades" />
+    <configuration name="InitBDJuegos" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a00.actividadesClase.clase05.InitBDJuegos" />
+      <module name="Acceso-a-Datos-actividades" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="a00.actividadesClase.clase05.*" />
@@ -99,6 +115,30 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="TestConexionH2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a00.actividadesClase.clase05.TestConexionH2" />
+      <module name="Acceso-a-Datos-actividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a00.actividadesClase.clase05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="actividades" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="actividades" />
+      <option name="filePath" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
@@ -154,8 +194,19 @@
       <option name="project" value="LOCAL" />
       <updated>1764086434249</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <option name="closed" value="true" />
+      <created>1764086546174</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764086546174</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="app.properties" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Actividad 3 de entrega evaluable" />
