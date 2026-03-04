@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f4d508c-087d-47fd-a0c0-34c471517458" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acceso-a-Datos-actividades.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/a03/peliculas.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a04/jdbc_crud/main/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a04/jdbc_crud/main/mapper/dataSource/DBJuegosConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a04/jdbc_crud/main/mapper/repository/JuegosRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a04/jdbc_crud/main/model/Juego.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a04/jdbc_crud/main/utils/UtilsDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/actividades.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a03/JSON/resources/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Acceso-a-Datos-actividades.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Acceso-a-Datos-actividades.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +39,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/adrianmtnz-upgrade/Acceso-a-Datos-actividades.git&quot;,
-    &quot;accountId&quot;: &quot;a518e621-131b-4c58-b9c6-56623b3a0d59&quot;
+    &quot;accountId&quot;: &quot;92dba72e-2fed-4bea-9c8f-22a030503f9d&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -102,7 +93,7 @@
       <recent name="$PROJECT_DIR$/src/a00/actividadesClase/clase05" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.InitBDJuegos">
     <configuration name="InitBDJuegos" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a00.actividadesClase.clase05.InitBDJuegos" />
       <module name="Acceso-a-Datos-actividades" />
@@ -129,23 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="actividades" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="actividades" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestConexionH2" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5f4d508c-087d-47fd-a0c0-34c471517458" name="Changes" comment="" />
